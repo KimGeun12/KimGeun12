@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning C++ and phython.
 - 🤔 My favorit things are playing the 🎮game and 🏀besketball, watching a 🎬movie.
 
---> thx.
+--> Thanks.
